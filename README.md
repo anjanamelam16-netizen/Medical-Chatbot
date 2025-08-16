@@ -2,9 +2,7 @@
 A `Langchain` and `Pinecone` based model that reads a Medicine-related encyclopedia and answers any prompt given by the user
 
 ## Authors
-- Rudra Panch
-- Raul Om Deepak
-- Rachit Kumar
+- Anjana Melam
 
 Install the following packages, in case they aren't already installed
 
@@ -28,3 +26,4 @@ If any error regarding compatibility of `tf-keras` pops up, run the following pi
 ```
 !pip install tf-keras
 ```
+
